@@ -1,6 +1,6 @@
 -- ========================================================================================================================
 -- RETAIL BANKING TRANSACTION ANALYSIS PROJECT
--- Author: Syed. Muskan
+-- Author: SHAIK. SHARMILA
 
 
 --  SPRINT 2: Database and Table Creation
